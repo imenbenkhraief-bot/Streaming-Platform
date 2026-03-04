@@ -1,11 +1,5 @@
 # Streaming Platform – Java OOP Project
 
-A Java console application that simulates a streaming platform (think Netflix/Disney+), built as part of a university lab (TP4). The project demonstrates core **Object-Oriented Programming** concepts including abstract classes, interfaces, inheritance, and polymorphism.
-
----
-
-## Description
-
 This project models a media streaming service where users can browse a catalogue of content, play media, rate it, and download films. It includes three types of media — **Films**, **Series** (with seasons and episodes), and **Trailers** — all managed through a central `PlateFormStreaming` catalogue.
 
 ---
